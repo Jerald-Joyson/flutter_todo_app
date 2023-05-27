@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Web App
 
-To Experience my web app [Click Here](https://jerald-joyson.github.io/flutter_todo_app.github.io/).
+To Experience my ToDo web app [Click Here](https://jerald-joyson.github.io/flutter_todo_app.github.io/).
 
 
 
